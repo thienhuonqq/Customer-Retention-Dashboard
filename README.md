@@ -1,5 +1,5 @@
 # Customer-Retention-Dashboard
-Check out my [Presentation](https://drive.google.com/file/d/1O_ahNrClOGGsg3dsshj1PFT-kovFU6cX/view?usp=sharing ) for more information!
+Check out my [Presentation](https://drive.google.com/file/d/1O_ahNrClOGGsg3dsshj1PFT-kovFU6cX/view?usp=sharing ) for the PowerBI Dashboard!
 
 Task 2 of the virtual case experience program by PwC Switzerland, offered through Forage. 
 
